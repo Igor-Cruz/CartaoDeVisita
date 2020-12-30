@@ -13,11 +13,13 @@ body{
 	background-size: cover;
 	margin: auto;
 	margin-top: 10%;
+	border:3px solid #341082;
 }
 
 .box{
 	width: 150px;
 	display: inline-block;
+
 }
 
 
@@ -37,7 +39,9 @@ img{
 	height: 50%;
 	border-radius: 50%;
 	text-align: center;
+	border: 3px solid #E3EE1C; 
 }
+	
 
 a{
 	text-decoration: none;
@@ -46,6 +50,7 @@ a{
 
 .instagram{
 	list-style-image: url('../IMAGENS/Insta.png');
+
 }
 
 .youtube{
